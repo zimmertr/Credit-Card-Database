@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=arg
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ This\ method\ is\ meant\ to\ test\ the\ gui.\r\n
+comment1.params=
+comment1.target=GUI()
+comment1.text=\r\n\ \ \ \ Constructor\ -\ instantiates\ and\ displays\ all\ of\ the\ GUI\ commponents\r\n
+comment2.params=
+comment2.target=void\ setupMenus()
+comment2.text=\r\n\ \ \ \ Set\ up\ the\ menu\ items\r\n
+numComments=3
