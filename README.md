@@ -1,4 +1,4 @@
-#Customer Credit Card Database
+#Credit Card Database
 
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Customer-Credit-Card-Database/master/screenshot.png "screenshot")
 
