@@ -1,4 +1,4 @@
-#Credit Card Database
+# Credit Card Database
 
 This program reads in a text  file of customer information and allows the user to search by many different metrics including
 
